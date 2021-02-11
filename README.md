@@ -24,5 +24,5 @@ impact on society and this planet, so there are better opportunities and a susta
 
 
 
-[![Alla's GitHub stats](https://github-readme-stats.vercel.app/api?username=AATopp)](https://github.com/AATopp/github-readme-stats)
 
+![Alla's GitHub stats](https://github-readme-stats.vercel.app/api?username=AATopp&show_icons=true&theme=radical)

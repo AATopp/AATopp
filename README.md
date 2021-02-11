@@ -21,3 +21,5 @@ impact on society and this planet, so there are better opportunities and a susta
 *
 *
 ## Articles I have written:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />

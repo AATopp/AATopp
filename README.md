@@ -6,10 +6,13 @@ reliable team member who is very helpful to others. I want to work on the meanin
 impact on society and this planet, so there are better opportunities and a sustainable future for us.
 
 ## 👩🏼‍💻 My technical skillset: 
-* Python
-* SQL
+* Python (Pandas, NumPy, Seaborn, Matplotlib, SQLite)
+* SQL (MySQL, PostgreSQL)
 * R
 * Tableau
+* Linux
+* Machine Learning 
+* Statistical Analyis
 
 ## Where you can find me:
 - [LinkedIn](https://www.linkedin.com/in/alla-topp-88260161/)

@@ -17,15 +17,11 @@ impact on society and this planet, so there are better opportunities and a susta
 ## Where you can find me:
 - [LinkedIn](https://www.linkedin.com/in/alla-topp-88260161/)
 - Email: ds20atopp@gmail.com
-- Medium: []()
+- [Medium](https://medium.com/@alekseeva8829)
 
 ## Current Projects:
 *
 *
-*
-## Articles I have written:
-
-
 
 ## My GitHub Stats
 ![Alla's GitHub stats](https://github-readme-stats.vercel.app/api?username=AATopp&show_icons=true&theme=radical)

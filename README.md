@@ -4,6 +4,7 @@ I am an aspiring data science & engineering professional who is looking for a ca
 the best version of myself. I seek a company where I feel valued, respected and supported, where I grow into an experienced professional, leader,
 reliable team member who is very helpful to others. I want to work on the meaningful projects that align with my values and goals to make an
 impact on society and this planet, so there are better opportunities and a sustainable future for us.
+
 * I have Master`s degree in Data Science
 * 
 
@@ -22,8 +23,8 @@ impact on society and this planet, so there are better opportunities and a susta
 - [Medium](https://medium.com/@alekseeva8829)
 
 ## Current Projects:
-*
-*
+* [COVID-19 Interchange project](https://github.com/AATopp/AllaT_Portfolio_Data_Scientist/tree/main/Data%20Engineering/COVID-19%20Interchange%20Project)
+* 
 
 ## My GitHub Stats
 ![Alla's GitHub stats](https://github-readme-stats.vercel.app/api?username=AATopp&show_icons=true&theme=radical)

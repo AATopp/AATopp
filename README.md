@@ -6,7 +6,9 @@ reliable team member who is very helpful to others. I want to work on the meanin
 impact on society and this planet, so there are better opportunities and a sustainable future for us.
 
 * I have Master`s degree in Data Science
-* 
+* I am currently looking for an entry-level Data Engineer role
+* I am learning advanced SQL + Python 
+
 
 ## 👩🏼‍💻 My technical skillset: 
 * Python (Pandas, NumPy, Seaborn, Matplotlib, SQLite)
@@ -17,7 +19,7 @@ impact on society and this planet, so there are better opportunities and a susta
 * Machine Learning 
 * Statistical Analyis
 
-## Where you can find me:
+## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/alla-topp-88260161/)
 - Email: ds20atopp@gmail.com
 - [Medium](https://medium.com/@alekseeva8829)

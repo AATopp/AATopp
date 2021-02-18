@@ -6,8 +6,8 @@ reliable team member who is very helpful to others. I want to work on the meanin
 impact on society and this planet, so there are better opportunities and a sustainable future for us.
 
 * I have Master`s degree in Data Science
-* I am currently looking for an entry-level Data Engineer role
-* I am learning advanced SQL + Python 
+* I am currently looking for an entry-level Data Engineer/Data Scientist roles
+* I am currently learning advanced SQL + Python and Machine Learning  
 
 
 ## 👩🏼‍💻 My technical skillset: 

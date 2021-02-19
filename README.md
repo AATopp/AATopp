@@ -25,7 +25,7 @@ impact on society and this planet, so there are better opportunities and a susta
 - [Medium](https://medium.com/@alekseeva8829)
 
 ## Current Projects:
-* [COVID-19 Interchange project](https://github.com/AATopp/AllaT_Portfolio_Data_Scientist/tree/main/Data%20Engineering/COVID-19%20Interchange%20Project)
+* [COVID-19 Interchange project](https://github.com/AATopp/AllaT_Portfolio_Data_Scientist/tree/main/Data%20Engineering/COVID19_Data_Interconnection_Project)
 * 
 
 ## My GitHub Stats

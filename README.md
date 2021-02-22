@@ -22,7 +22,7 @@ impact on society and this planet, so there are better opportunities and a susta
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/alla-topp-88260161/)
 - Email: ds20atopp@gmail.com
-- [Medium](https://medium.com/@alekseeva8829)
+- [Medium](https://allatopp.medium.com/the-covid-19-master-dataset-youve-been-waiting-for-e27e149ad9dd)
 
 ## Current Projects:
 * [COVID-19 Interchange project](https://github.com/AATopp/AllaT_Portfolio_Data_Scientist/tree/main/Data%20Engineering/COVID19_Data_Interconnection_Project)

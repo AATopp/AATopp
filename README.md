@@ -5,7 +5,7 @@ the best version of myself. I seek a company where I feel valued, respected and 
 reliable team member who is very helpful to others. I want to work on the meaningful projects that align with my values and goals to make an
 impact on society and this planet, so there are better opportunities and a sustainable future for us.
 
-* I have Master`s degree in Data Science
+* I have a Master`s degree in Data Science
 * I am currently looking for an entry-level Data Engineer/Data Scientist roles
 * I am currently learning advanced SQL + Python and Machine Learning  
 

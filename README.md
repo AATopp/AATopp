@@ -26,7 +26,7 @@ impact on society and this planet, so there are better opportunities and a susta
 
 ## Current Projects:
 * [COVID-19 Interchange project](https://github.com/AATopp/AllaT_Portfolio_Data_Scientist/tree/main/Data%20Engineering/COVID19_Data_Interconnection_Project)
-* [COVID-19 Policy Interchange project](https://github.com/AATopp/AllaT_Portfolio_Data_Scientist/tree/main/Data%20Engineering/Policy%20COVID-19%20Interchange%20Project
+* [COVID-19 Policy Interchange project](https://github.com/AATopp/AllaT_Portfolio_Data_Scientist/tree/main/Data%20Engineering/Policy%20COVID-19%20Interchange%20Project)
 
 ## My GitHub Stats
 ![Alla's GitHub stats](https://github-readme-stats.vercel.app/api?username=AATopp&show_icons=true&theme=radical)

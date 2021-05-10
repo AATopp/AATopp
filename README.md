@@ -11,13 +11,10 @@ impact on society and this planet, so there are better opportunities and a susta
 
 
 ## 👩🏼‍💻 My technical skillset: 
-* Python (Pandas, NumPy, Seaborn, Matplotlib, SQLite)
-* SQL (MySQL, PostgreSQL)
-* R
+* Python 
+* SQL 
 * Tableau
 * Linux
-* Machine Learning 
-* Statistical Analyis
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/alla-topp-88260161/)

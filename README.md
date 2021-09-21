@@ -11,10 +11,10 @@ impact on society and this planet, so there are better opportunities and a susta
 
 
 ## 👩🏼‍💻 My technical skillset: 
+* R
 * Python 
 * SQL 
-* Tableau
-* Linux
+* PowerBI 
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/alla-topp-88260161/)
